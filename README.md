@@ -3,11 +3,17 @@ Aegis is a Python-based voice assistant that listens to user commands and perfor
 
 **Key Features:**
 **Personalized Greetings:** Greets based on the current time.
+
 **Wikipedia Search:** Retrieves brief summaries from Wikipedia.
+
 **Website Access:** Opens popular sites like YouTube, Google, and W3Schools.
+
 **Music Player:** Plays music from a designated folder.
+
 **Time Updates:** Provides the current time.
+
 **Chrome Launcher:** Opens Google Chrome.
+
 **Voice Commands:** Recognizes user speech and responds accordingly. 
 
 **Technologies:**
